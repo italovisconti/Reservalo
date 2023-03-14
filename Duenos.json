@@ -41,7 +41,11 @@
               "anio": "2023"
             }
           ],
-          "solicitudesActivas": []
+          "solicitudesActivas": [
+            {
+              "nombre": "italo"
+            }
+          ]
         }
       ],
       "user": "italo.hsp",
